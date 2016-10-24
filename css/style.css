@@ -27,10 +27,18 @@
 .back {
   background-color: #DCD5D3;
   height: 660px;
+  margin-top: 30px;
+  padding-top: 1px;
 }
-/* inline css-ს აქეთ */
-.back {
-  
+/* inline სტილის გაწერას, აქეთ სელექტორიტ მიწვდომა და ისე დეკლარირება ჯობია */
+.back img {
+  width: 965px;
+  display: block;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  margin-right: auto;
+  margin-left: auto;
+  /* margin: 30px auto 30px auto; */
 }
 /* */
 .photo {
