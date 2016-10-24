@@ -53,17 +53,18 @@
   width: 230px;
   border: 1px solid #DCD5D3;
   /*margin-top: 50px;*/
-  margin-right: 6.5px;
+  /*margin-right: 6.5px;*/
+  margin-right: 15px;
   display: inline-block;
 }
 
 .box2 {
   height: 40px;
-  width: 232px;
+  /*width: 232px;*/
   /*border: 1px solid black;*/
   background-color: #DCD5D3;
   /*margin-top: 50px;*/
-  margin-bottom: 50px;
-  margin-right: 6.5px;
-  display: inline-block;
+  /*margin-bottom: 50px;*/
+  /*margin-right: 6.5px;*/
+  /*display: inline-block;*/
 }
