@@ -28,7 +28,11 @@
   background-color: #DCD5D3;
   height: 660px;
 }
-
+/* inline css-ს აქეთ */
+.back {
+  
+}
+/* */
 .photo {
   height: 600px;
   width: 956px;
